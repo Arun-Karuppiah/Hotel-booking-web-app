@@ -1,0 +1,90 @@
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.ys_51pwoX-JIiBDk4uKZAgHaEo&pid=Api&P=0");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+:root{
+  --white: #FFF;
+  --bg: #313552;
+  --grey: #CCC;
+  --sucess-bg: #41b851;
+}
+.wrapper{
+  width: 100%;
+  max-width: 600px;
+  padding: 30px 30px;
+  background: rgb(92, 147, 209);
+  border-radius: 20px;
+  box-shadow: 0 4px 4px rgba(210, 20, 20, 0.2);
+}
+.wrapper .content .logo{
+  padding-left: 190px;
+}
+.wrapper .content .logo img{
+  width: 100%;
+  max-width: 150px;
+  height: 80px;
+}
+.wrapper .content .c1{
+  margin-top: 20px;
+  text-align: center;
+}
+.wrapper .content .c1 span{
+  font-size: 30px;
+  font-weight: 500;
+}
+.wrapper .content .form{
+  margin-top: 25px;
+}
+.wrapper .content .form form input{
+  width: 100%;
+  padding: 20px 40px;
+  border: 1px solid var(--grey);
+  outline: none;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+}
+.wrapper .content .form form input:focus{
+  border-color: var(--bg);
+}
+.wrapper .content .form form button{
+  background-color: rgb(10, 67, 154);
+  color: var(--white);
+  font-weight: 500;
+  border: none;
+  font-size: 1em;
+  padding: 15px 40px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.wrapper .content .form form .eInput .icon{
+  position: absolute;
+  top: 25px;
+  left: 15px;
+  color: rgb(85, 78, 78);
+}
+.wrapper .content .form form .eInput{
+  position: relative;
+}
+.status{
+  padding: 20px;
+  color: #924950;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  margin: 10px 0 10px;
+  border-radius: 5px;
+  display: none;
+  text-align: center;
+}
+.status.active{
+  display: block;
+}
+.wrapper.hide{
+  display: none;
+}

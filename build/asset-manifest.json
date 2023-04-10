@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92992abd.css",
+    "main.js": "/static/js/main.8ac46206.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/hotel.jpg": "/static/media/hotel.3b311d5ca0a12c12a909.jpg",
+    "static/media/tajhotel.webp": "/static/media/tajhotel.2218eb256fb563d55829.webp",
+    "static/media/fcsm.jpg": "/static/media/fcsm.8930101d0b0ffc4b8e45.jpg",
+    "static/media/htl.jpg": "/static/media/htl.c544a9c90eb9ebac674a.jpg",
+    "static/media/fwifi.jpg": "/static/media/fwifi.1b4cf6d718d23c4ac53a.jpg",
+    "static/media/recep.jpg": "/static/media/recep.16a1eb9712c58e9155d3.jpg",
+    "static/media/serv.jpg": "/static/media/serv.b473aba9102dbc58db1f.jpg",
+    "index.html": "/index.html",
+    "main.92992abd.css.map": "/static/css/main.92992abd.css.map",
+    "main.8ac46206.js.map": "/static/js/main.8ac46206.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92992abd.css",
+    "static/js/main.8ac46206.js"
+  ]
+}
